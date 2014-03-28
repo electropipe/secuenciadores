@@ -41,9 +41,10 @@ mezclar: volumenes, paneos, Fx
 convertir a varios formatos: wav, mp3
 
 
+composicion: -> johnny " normalmente cuando suelo componer, tomo mi guitarra o mi teclado y sin pensar en tonalidades, toco notas pensando en sus distancia e impregdandome de sus sonoridades, buscando ese ambiente con el cual me siento a gusto en ese momento, luego; se me viene un ritmo a la cabeza y lo interpreto imaginandome una bateria en mi cabeza y lo ejecuto dandome golpes en mis pies, ahora para crear esa atmosfera, pienso en esos acordes, pero ¿ cómo interpretar todo al mismo tiempo".
 
 
- 
-desarrollar el dcumento de la misma manera que los otros,
+
+
  
 

@@ -12,8 +12,10 @@ incluso como acompañamiento, o para preproducir una pieza.
 
 las actividades musicales nunca fueron tan faciles, rapidas y efectivas con esta util herramienta 
 
-que tal hacer un concierto para la navidad?        
-con el secuenciador podemos componer nuestra musica 
+un metromono es vital para el estudio musical, pero es monoto y agotador al usarlo por largo tiempo.
+con un secuenciador podemos reemplazarlo por la banda entera para estudiar, improvisar e interiorizar 
+la parte dificil repitiendola indefinidamente, el tempo se puede modificar para irla perfeccionando progresivamente, o componer una cancion con diferentes instrumentos escuchandola y ajustandola a tiempo real, hasta convertirla en tu propio fondo para acompañarte o en tu propio demo como carta de presentacion, de alta calidad, listo
+
 
 
 composicion

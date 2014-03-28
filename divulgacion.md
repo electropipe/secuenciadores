@@ -8,11 +8,11 @@ incluso como acompañamiento, o para preproducir una pieza.
 
 ----
 
-parrafo medio (corto de manera anecdotica explicando la importancia e inspirador)
+*parrafo medio (corto de manera anecdotica explicando la importancia e inspirador)*
 
 las actividades musicales nunca fueron tan faciles, rapidas y efectivas con esta util herramienta 
 
-que tal hacer un concierto para la navidad?
+que tal hacer un concierto para la navidad?        
 con el secuenciador podemos componer nuestra musica 
 
 

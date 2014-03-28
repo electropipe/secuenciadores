@@ -39,8 +39,4 @@ convertir a varios formatos: wav, mp3
  
 desarrollar el dcumento de la misma manera que los otros,
  
-inctro corta
 
-parrafo medio
- 
-y práctica de esos tres elementos

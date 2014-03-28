@@ -3,13 +3,17 @@
 
 #####*Desde composición y programación hasta acompañante musical! ...herramienta o instrumento?*
 ----
-Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos automáticamente incluso como acompañamiento, o para preproducir una pieza. 
+Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos automáticamente
+incluso como acompañamiento, o para preproducir una pieza. 
 
 ----
 
 parrafo medio (corto de manera anecdotica explicando la importancia e inspirador)
 
-composicion
+Esta herramienta hace la actividad musical mas facil, rapido y divertido.
+
+poder escuchar las composiciones propias en vez de imaginar su sonido desde la partitura o tener muchos amigos musicos
+
 acopañamiento
 grabacion y mezcla
 

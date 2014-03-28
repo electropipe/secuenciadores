@@ -28,6 +28,14 @@ crear un loop
 mutear y desmutear tracks.
 
 - Grabar y mezclar un demo
+grabar su instrumento,
+editar: cortar, copiar, pegar, cuantizar
+mezclar: volumenes, paneos, Fx
+convertir a varios formatos: wav, mp3
+
+
+
+
  
 desarrollar el dcumento de la misma manera que los otros,
  

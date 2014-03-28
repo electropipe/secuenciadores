@@ -7,18 +7,26 @@ Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos autom
 
 ----
 
-desarrollo
+parrafo medio (corto de manera anecdotica explicando la importancia e inspirador)
+
+composicion
+acopañamiento
+grabacion y mezcla
 
 
 
-inctro corta
 
-parrafo medio
+y práctica de esos tres elementos (blog)
 
-y práctica de esos tres elementos
+Composición con un secuenciador.
+conocer la instrumentacion del genero a grabar, esto nos va a dar necesidades, como # de tracks, que va midi, que va sampleado, y que va grabado.
 
- Composición con un secuenciador.
-- secuenciar para acompañarse (hacer una base de ritmo y armonía)
+- secuenciar para acompañarse al practicar (hacer una base de ritmo y armonía)
+aumentar o disminuir tempo  
+modificar tonalidad
+crear un loop
+mutear y desmutear tracks.
+
 - Grabar y mezclar un demo
  
 desarrollar el dcumento de la misma manera que los otros,

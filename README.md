@@ -4,18 +4,17 @@ secuenciadores
 Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Audio Workstation)*
 
 
-Lo Primero:
+### [Lo Primero:](loprimero.md)
 
-Fortalezas
+### [Practicas](practicas.md)
 
-Practicas
+### [Ejemplos](ejemplos.md)
 
-Ejemplos
-
-Tutoriales en video 
+### [Tutoriales en video](linkyoutube)
 
 
 Lo Primero:
 
 ¿Qué es un Daw?
 Primeros pasos
+

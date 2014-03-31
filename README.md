@@ -13,8 +13,4 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 ### [Tutoriales en video](linkyoutube)
 
 
-Lo Primero:
-
-¿Qué es un Daw?
-Primeros pasos
 

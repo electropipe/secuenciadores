@@ -5,7 +5,7 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 
 ####Por donde te gustaria empezar?
 
-### [Lo Primero](https://github.com/electropipe/secuenciadores/edit/master/README.md#lo-primero-1)
+### [Lo Primero](https://github.com/electropipe/secuenciadores/README.md#lo-primero-1)
 
 ### [Practicas](practicas.md)
 

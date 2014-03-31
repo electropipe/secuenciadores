@@ -1,4 +1,4 @@
-El bombo:
+###El bombo (Kick)
 
 Empieza configurando un proyecto nuevo.
 

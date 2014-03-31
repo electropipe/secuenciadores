@@ -20,4 +20,4 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 
 ###Lo Primero:
 
-### [¿Que es un DAW?](queesdaw.md)
+[¿Que es un DAW?](queesdaw.md)

@@ -18,6 +18,8 @@ Barra de transporte
 
 ###Edicion de la cuadricula
 
+###Piano roll y Midi 
+
 Es de gran utilidad poder aumentar y disminuir el tamaño de la cuadricula o "rejilla" de edición. También se puede desactivar temporalmente para arrastrar libremente un evento.
 Atajo de teclado (Shorcut)
 

@@ -22,7 +22,7 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 
 [¿Que es un DAW?](queesdaw.md)
 
-
+[Habilidades esenciales.md](habilidadesesenciales.md)
  	
 [Añadiendo el Bombo](001practica.md)
 

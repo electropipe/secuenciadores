@@ -3,9 +3,13 @@
 A continuacion describiremos las funciones y herramientas basicas que encontraremos en cada Daw.
 
 ###Reconociendo las partes
+
 tracks
+
 consola
+
 efectos
+
 Barra de transporte
 
 ###Crear un proyecto nuevo

@@ -31,3 +31,4 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 [Añadiendo el Charles](003practica.md)
 
 [Añadiendo la Percusion](004practica.md)
+ 

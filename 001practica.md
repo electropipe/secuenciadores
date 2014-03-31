@@ -2,12 +2,9 @@
 
 Empieza configurando un proyecto nuevo.
 
-Crea un proyecto y dale un nombre.
+Crea un proyecto, dale un nombre y configura el tempo del proyecto en 130 Beats por minuto(BPM)
 
-configura el tempo del proyecto en 130 Beats por minuto(BPM)
-
-Empieza a construir el groove con el bombo.
-(El bombo es el elemento mas bajo de todo el proyecto)
+Empieza a construir el groove con el bombo. *(El bombo es el elemento mas bajo de todo el proyecto)*
 
 1. Crea un track monofonico de audio 
 2. Nombralo Kick

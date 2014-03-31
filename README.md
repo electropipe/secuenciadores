@@ -22,9 +22,9 @@ Esta es una introduccion al manejo basico del secuenciador tipo DAW *(Digital Au
 
 [¿Que es un DAW?](queesdaw.md)
 
- 	001practica.md
+
  	
- 	[Añadiendo el Bombo](001practica.md)
- 	[Añadiendo el Redoblante](002practica.md)
- 	[Añadiendo el Charles](003practica.md)
- 	[Añadiendo la Percusion](004practica.md)
+[Añadiendo el Bombo](001practica.md)
+[Añadiendo el Redoblante](002practica.md)
+[Añadiendo el Charles](003practica.md)
+[Añadiendo la Percusion](004practica.md)

@@ -1,0 +1,5 @@
+
+
+cortar
+copiar
+pegar

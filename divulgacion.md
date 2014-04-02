@@ -41,33 +41,9 @@ es el equivalente a las antiguas consolas de mezcla, puesto que es dentro del so
 En Los Daw los encontramos desde los mas populares y costosos hasta soluciones gratuitas de gran nivel y para todo tipo de sistemas operativos. sin embargo sus funciones son muy similares en todos.
 
 
+----
 
 
-
-
-composicion
-acopañamiento
-grabacion y mezcla
-
-
-
-
-y práctica de esos tres elementos (blog)
-
-Composición con un secuenciador.
-conocer la instrumentacion del genero a grabar, esto nos va a dar necesidades, como # de tracks, que va midi, que va sampleado, y que va grabado.
-
-- secuenciar para acompañarse al practicar (hacer una base de ritmo y armonía)
-aumentar o disminuir tempo  
-modificar tonalidad
-crear un loop
-mutear y desmutear tracks.
-
-- Grabar y mezclar un demo
-grabar su instrumento,
-editar: cortar, copiar, pegar, cuantizar
-mezclar: volumenes, paneos, Fx
-convertir a varios formatos: wav, mp3
 
 
 composicion: -> johnny " normalmente cuando suelo componer, tomo mi guitarra o mi teclado y sin pensar en tonalidades, toco notas pensando en sus distancia e impregdandome de sus sonoridades, buscando ese ambiente con el cual me siento a gusto en ese momento, luego; se me viene un ritmo a la cabeza y lo interpreto imaginandome una bateria en mi cabeza y lo ejecuto dandome golpes en mis pies, ahora para crear esa atmosfera, pienso en esos acordes, pero ¿ cómo interpretar todo al mismo tiempo".

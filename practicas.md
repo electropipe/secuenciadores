@@ -1,14 +1,13 @@
 
 
 
-
--Composición con un secuenciador.
+##Composición con un secuenciador.
 
 conocer la instrumentacion del genero a grabar
 
 esto nos va a dar necesidades, como # de tracks, que va midi, que va sampleado, y que va grabado.
 
-- secuenciar para acompañarse al practicar (hacer una base de ritmo y armonía)
+##secuenciar para acompañarse al practicar (hacer una base de ritmo y armonía)
 
 
 Editar tempo  
@@ -19,7 +18,7 @@ crear un loop
 
 mutear y desmutear tracks.
 
-- Grabar y mezclar un demo
+##Grabar y mezclar un demo
 
 grabar su instrumento
 

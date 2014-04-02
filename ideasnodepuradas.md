@@ -25,3 +25,9 @@ Importa el achivo Perc.wav y ubicalo al principio del track.
 Construye tus Grooves
 son incontables las posibilidades ritmicas para la percusion. La idea es lograr una interaccion agradable con el resto de los instrumentos. Escucha con atencion como fluyen los elementos en una forma logica y predecible.
 muchos instrumenos percutivos no tienen una afinacion clara, pero si manejan alturas. lo ideal es crear una linea de la percusion con cierta melodia que crezca y caiga logicamente con el resto de la musica.
+
+## El Bajo
+
+Crea un track con color azul y nombralo "Bajo"
+
+Importa el achivo Bajo.wav y ubicalo al principio del track. 

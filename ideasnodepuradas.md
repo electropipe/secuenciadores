@@ -7,7 +7,7 @@ Importa el archivo Redo.wav y ubicalo en los tiempos 2 y 4 de cada compas.
 
 puedes loopearlo, duplicarlo y repetirlo. esto es una tarea comun de cada secuenciador. las tecnicas y nombres pueden variar. si tienes otro Daw puedes investigarlo para poderlo con mas agolidad.
 
-#Charles (Hi Hat)
+##Charles (Hi Hat)
 
 Crea un track con color amarillo y nombralo "Charles" o "HH"
 

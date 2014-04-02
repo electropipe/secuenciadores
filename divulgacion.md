@@ -20,7 +20,7 @@ la parte dificil repitiendola indefinidamente, el tempo se puede modificar para 
 
 DAW (Digital Audio Workstation) Estación de trabajo de audio digital
 
-es un software dedicado a la grabación y edición de audio por un computador y una interfaz de audio digital,
+Es un secuenciador en version software, dedicado a la grabación y edición de audio por un computador y una interfaz de audio digital,
 
 utilizadas actualmente en casi todas la Producciónes discográficas posproducción de sonido para cine, televisión y videojuegos. Debido a su relativa facilidad de adquisición, están presentes tanto a nivel profesional como a nivel consumer, dando origen a los famosos Home Studios o estudios caseros de sonido.
 

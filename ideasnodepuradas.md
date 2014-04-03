@@ -41,8 +41,8 @@ Importa el achivo Bajo.wav y ubicalo al principio del track.
 
 
 ----
+#PROFUNDIZACION:  DAW (Digital Audio Workstation) Estación de trabajo de audio digital
 
-DAW (Digital Audio Workstation) Estación de trabajo de audio digital
 
 Es un secuenciador en version software, dedicado a la grabación y edición de audio por un computador y una interfaz de audio digital,
 

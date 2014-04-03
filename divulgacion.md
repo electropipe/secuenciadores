@@ -24,16 +24,16 @@ Un secuenciador una de las herraminetas musicales mas usadas hoy en dia. tiene t
 Por ejemplo para un guitarrista, pianista o vientista es muy util tener una base ritmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secueciador se puede hacer en pocos pasos y a nuestro gusto.
 
-Ejemplo:
+[Ejemplo:]()
 
 Luego de tener una base ritmica, lo siguiente es añadir los otros instrumentos nesesarios para la pieza. 
 
-Ejemplo:  armonia, melodia, ritmica
+[Ejemplo:]()  armonia, melodia, ritmica
 
 Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su prioridad. los secuenciadores permiten ajustar el volumen de cada elemento, haciendo que el sonido de la pieza sea mas refinado.
 
 
-Ejemplo:
+[Ejemplo:]()
 
 
 

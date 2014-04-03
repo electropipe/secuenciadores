@@ -29,5 +29,7 @@ Ejemplo:
 Luego de tener una base ritmica, lo siguiente es añadir los otros instrumentos nesesarios para la pieza. 
 
 Ejemplo:  armonia, melodia, ritmica
+
+Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su prioridad. los secuenciadores permiten ajustar el volumen de cada elemento
  
 

@@ -36,6 +36,15 @@ Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su 
 [Ejemplo:]()
 
 
+##Haciendo una obra maestra!
+
+
+
+
+En Concierto:La maquina y yo
+
+
+
 
  
 

@@ -18,6 +18,8 @@ la parte dificil repitiendola indefinidamente, el tempo se puede modificar para 
 
 ----
 
+##Amigos!  Estoy componiendo!
+
 Un secuenciador una de las herraminetas musicales mas usadas hoy en dia. tiene todo lo necesario para facilitarnos los procesos de composicion que eran largos y tediosos.
 Por ejemplo para un guitarrista, pianista o vientista es muy util tener una base ritmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secueciador se puede hacer en pocos pasos y a nuestro gusto.

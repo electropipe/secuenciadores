@@ -38,13 +38,20 @@ Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su 
 
 ##Haciendo una obra maestra!
 
+ya una vez la composicion este completa, se puede llevar a un nivel mas profesional, mediante tecnicas de Mezclay masterizacion. algunas de estas tecnicas son, compresion, ecualizacion, paneo y efectos entre otros.
+
+[Ejemplo:]()
+
 
 
 
 ##En Concierto:La maquina y yo
 
+Componer y grabar no son las unicas funciones de un secuenciador, tambien es de gran utilidad para acompañarse en vivo, o estudiar de varias formas con su ayuda.
 
 
 
- 
+
+
+ [Ejemplo:]()
 

@@ -1,5 +1,24 @@
 #Blog de ideas no depuradas
 
+
+
+
+##El bombo (Kick)
+
+Empieza configurando un proyecto nuevo.
+
+Crea un proyecto, dale un nombre y configura el tempo del proyecto en 130 Beats por minuto(BPM)
+
+Empieza a construir el groove con el bombo. (El bombo es el elemento mas bajo de todo el proyecto)
+
+Crea un track monofonico de audio
+Nombralo Kick
+Ponle color rojo al track
+importa el audio Kick.mp3 y ubicalo al inicio del track que creaste.
+
+si el audio esta alineado con el tempo del proyecto, se debe escuchar sincronizado con el metronomo y visualmente el cursor debe coincidir con las subdividiones en los compases.
+
+
 ##Practica #2 Redoblante
 
 crea otro track mono y ponle color naranja y nombralo "Redo"

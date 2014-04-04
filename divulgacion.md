@@ -1,10 +1,9 @@
 #SECUENCIADORES: Acompañante Autómata
 
 
-#####*Desde composición y programación hasta acompañante musical. ...herramienta o instrumento?*
-----
-Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos automáticamente
-Incluso como acompañamiento, o para pre producir una pieza. 
+##### *Un secuenciador permite componer sonidos de forma ordenada y reproducirlos automáticamente, incluso puede usarse como acompañamiento musical, o para realizar produciones profesionales.  ...¿herramienta o instrumento?*
+
+
 
 ----
 

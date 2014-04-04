@@ -47,7 +47,10 @@ ya una vez la composicion este completa, se puede llevar a un nivel mas profesio
 
 ##En Concierto:La maquina y yo
 
-Componer y grabar no son las unicas funciones de un secuenciador, tambien es de gran utilidad para acompañarse en vivo, o estudiar de varias formas con su ayuda.
+Componer y grabar no son las unicas funciones de un secuenciador, tambien es de gran utilidad para acompañarse en vivo, ya sea una cancion o todo un concierto, con la versatilidad de poder escojer los instrumnentos que sonaran. Otra utilidad de un secuenciador usarlo para estudiar canciones de varias formas.  una es usando la funcion de Loop para repetir indefinidamente una porcion de la cancion. Tambien es posible bajar el tempo para poder interiorizar pasajes dificiles o de mucha rapidez.
+
+
+
 
 
 

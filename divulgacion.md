@@ -8,7 +8,7 @@
 ----
 
 
-Las actividades musicales nunca fueron tan fáciles, rápidas y efectivas con esta útil herramienta 
+La produccion musical nunca fue tan fácil, rápida y efectiva con esta útil herramienta. 
 
 Un metrónomo es vital para el estudio musical, pero es monótono y agotador al usarlo por largo tiempo.
 Con un secuenciador podemos remplazarlo por la banda entera para estudiar, improvisar e interiorizar 

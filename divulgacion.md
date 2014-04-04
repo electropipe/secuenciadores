@@ -18,7 +18,7 @@ Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, impr
 
 ##Amigos!  Estoy componiendo!
 
-Un secuenciador es una de las herramientas mas usadas por los musicos hoy en día. tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
+Un secuenciador tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
 Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
 

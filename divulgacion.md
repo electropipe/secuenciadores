@@ -7,7 +7,6 @@
 
 ----
 
-*párrafo medio (corto de manera anecdótica explicando la importancia e inspirador)*
 
 Las actividades musicales nunca fueron tan fáciles, rápidas y efectivas con esta útil herramienta 
 

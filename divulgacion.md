@@ -54,7 +54,5 @@ Componer y grabar no son las unicas funciones de un secuenciador, tambien es de 
 
 
 
-
-
  [Ejemplo:]()
 

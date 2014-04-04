@@ -2,8 +2,11 @@
 
 
 
-
 ##Composición con un secuenciador.
+
+Definir una seccion ritmica
+Definir una seccion armonica
+Definir una seccion melodica
 
 conocer la instrumentacion del genero a grabar
 
@@ -29,3 +32,5 @@ editar: cortar, copiar, pegar, cuantizar
 mezclar: volumenes, paneos, Fx
 
 convertir a varios formatos: wav, mp3
+
+

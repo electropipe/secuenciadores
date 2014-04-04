@@ -1,24 +1,24 @@
 #SECUENCIADORES: Acompañante Autómata
 
 
-##### *Un secuenciador permite componer sonidos de forma ordenada y reproducirlos automáticamente, incluso puede usarse como acompañamiento musical, o para realizar produciones profesionales.  ...¿herramienta o instrumento?*
+##### *Un secuenciador permite componer sonidos de forma ordenada y reproducirlos automáticamente, incluso puede usarse como acompañamiento musical, o para realizar producciones profesionales.  ...¿herramienta o instrumento?*
 
 
 
 ----
 
 
-La produccion musical nunca fue tan fácil, rápida y efectiva con esta útil herramienta. 
+La producción musical nunca fue tan fácil, rápida y efectiva con esta útil herramienta. 
 
 Un metrónomo es vital para el estudio musical, pero es monótono y agotador usarlo por largo tiempo.
-Con un secuenciador podemos remplazarlo por la banda entera para estudiar, improvisar e interiorizar 
-La parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o también componer una canción con diferentes instrumentos escuchándola y ajustándola a tiempo real, hasta convertirla en tu propio fondo para acompañarte o en tu propio demo como carta de presentación, de alta calidad y listo para ser compartido al mundo entero.
+Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, improvisar e interiorizar la parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o también componer una canción con diferentes instrumentos y convertirla en acompañamiento, demo o producción profesional.
+
 
 ----
 
 ##Amigos!  Estoy componiendo!
 
-Un secuenciador una de las herramientas musicales mas usadas hoy en día. tiene todo lo necesario para facilitarnos los procesos de composición que eran largos y tediosos.
+Un secuenciador es una de las herramientas mas usadas por los musicos hoy en día. tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
 Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
 

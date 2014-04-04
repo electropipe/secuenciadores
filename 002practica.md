@@ -1,1 +1,0 @@
-###El Redoblante (Snare)

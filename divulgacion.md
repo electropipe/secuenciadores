@@ -4,33 +4,33 @@
 #####*Desde composición y programación hasta acompañante musical! ...herramienta o instrumento?*
 ----
 Un secuenciador  permite componer sonidos de forma ordenada, reproducirlos automáticamente
-incluso como acompañamiento, o para preproducir una pieza. 
+Incluso como acompañamiento, o para pre producir una pieza. 
 
 ----
 
-*parrafo medio (corto de manera anecdotica explicando la importancia e inspirador)*
+*párrafo medio (corto de manera anecdótica explicando la importancia e inspirador)*
 
-las actividades musicales nunca fueron tan faciles, rapidas y efectivas con esta util herramienta 
+Las actividades musicales nunca fueron tan fáciles, rápidas y efectivas con esta útil herramienta 
 
-un metromono es vital para el estudio musical, pero es monoto y agotador al usarlo por largo tiempo.
-con un secuenciador podemos reemplazarlo por la banda entera para estudiar, improvisar e interiorizar 
-la parte dificil repitiendola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o tambien componer una cancion con diferentes instrumentos escuchandola y ajustandola a tiempo real, hasta convertirla en tu propio fondo para acompañarte o en tu propio demo como carta de presentacion, de alta calidad y listo para ser compartido al mundo entero.
+Un metrónomo es vital para el estudio musical, pero es monótono y agotador al usarlo por largo tiempo.
+Con un secuenciador podemos remplazarlo por la banda entera para estudiar, improvisar e interiorizar 
+La parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o también componer una canción con diferentes instrumentos escuchándola y ajustándola a tiempo real, hasta convertirla en tu propio fondo para acompañarte o en tu propio demo como carta de presentación, de alta calidad y listo para ser compartido al mundo entero.
 
 ----
 
 ##Amigos!  Estoy componiendo!
 
-Un secuenciador una de las herraminetas musicales mas usadas hoy en dia. tiene todo lo necesario para facilitarnos los procesos de composicion que eran largos y tediosos.
-Por ejemplo para un guitarrista, pianista o vientista es muy util tener una base ritmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
-La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secueciador se puede hacer en pocos pasos y a nuestro gusto.
+Un secuenciador una de las herramientas musicales mas usadas hoy en día. tiene todo lo necesario para facilitarnos los procesos de composición que eran largos y tediosos.
+Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
+La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
 
 [Ejemplo:]()
 
-Luego de tener una base ritmica, lo siguiente es añadir los otros instrumentos nesesarios para la pieza. 
+Luego de tener una base rítmica, lo siguiente es añadir los otros instrumentos necesarios para la pieza. 
 
-[Ejemplo:]()  armonia, melodia, ritmica
+[Ejemplo:]()  Armonía, melodía, rítmica
 
-Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su prioridad. los secuenciadores permiten ajustar el volumen de cada elemento, haciendo que el sonido de la pieza sea mas refinado.
+Lo siguiente es definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, haciendo que el sonido de la pieza sea más refinado.
 
 
 [Ejemplo:]()
@@ -38,16 +38,16 @@ Lo siguiente es definir que tan fuerte o suave sonara cada instrumento segun su 
 
 ##Haciendo una obra maestra!
 
-ya una vez la composicion este completa, se puede llevar a un nivel mas profesional, mediante tecnicas de Mezclay masterizacion. algunas de estas tecnicas son, compresion, ecualizacion, paneo y efectos entre otros.
+Ya una vez la composición esta completa, se puede llevar a un nivel más profesional, mediante técnicas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
 
 [Ejemplo:]()
 
 
 
 
-##En Concierto:La maquina y yo
+##En Concierto: La maquina y yo
 
-Componer y grabar no son las unicas funciones de un secuenciador, tambien es de gran utilidad para acompañarse en vivo, ya sea una cancion o todo un concierto, con la versatilidad de poder escojer los instrumnentos que sonaran. Otra utilidad de un secuenciador usarlo para estudiar canciones de varias formas.  una es usando la funcion de Loop para repetir indefinidamente una porcion de la cancion. Tambien es posible bajar el tempo para poder interiorizar pasajes dificiles o de mucha rapidez.
+Componer y grabar no son las únicas funciones de un secuenciador, también es de gran utilidad para acompañarse en vivo, ya sea una canción o todo un concierto, con la versatilidad de poder escoger los instrumentos que sonaran. Otra utilidad de un secuenciador usarlo para estudiar canciones de varias formas.  Una es usando la función de Loop para repetir indefinidamente una porción de la canción. También es posible bajar el tempo para poder interiorizar pasajes difíciles o de mucha rapidez.
 
 
 
@@ -55,4 +55,5 @@ Componer y grabar no son las unicas funciones de un secuenciador, tambien es de 
 
 
  [Ejemplo:]()
+
 

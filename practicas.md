@@ -1,36 +1,50 @@
 
 
 
-
 ##Composición con un secuenciador.
 
-Definir una seccion ritmica
-Definir una seccion armonica
-Definir una seccion melodica
 
-conocer la instrumentacion del genero a grabar
 
-esto nos va a dar necesidades, como # de tracks, que va midi, que va sampleado, y que va grabado.
+
+Lo primero que necesitamos es crear una sesion o proyecto con:
+
+
+Nombre de proyecto, preparacion de tracks para grabar, instrumentos midi y utilizacion de samples de audio.
+[Solución]()  
+
+
+
+Es importante primero conocer la instrumentación del género para luego: 
+
+
+Definir una sección rítmica [Solución]()  
+
+Definir una sección armónica [Solución]()  
+
+Definir una sección melódica  [Solución]()  
+
 
 ##secuenciar para acompañarse al practicar (hacer una base de ritmo y armonía)
 
 
-Editar tempo  
+Editar tempo  [Solución]()  
 
-modificar tonalidad
+Modificar tonalidad  [Solución]()  
 
-crear un loop
+Crear un loop  [Solución]()  
 
-mutear y desmutear tracks.
+Mutear y desmutear tracks.  [Solución]()  
 
-##Grabar y mezclar un demo
 
-grabar su instrumento
+##Grabar y mezclar un demo  
 
-editar: cortar, copiar, pegar, cuantizar
 
-mezclar: volumenes, paneos, Fx
+Grabar su instrumento     [Solución]()  
 
-convertir a varios formatos: wav, mp3
+Editar: cortar, copiar, pegar, cuantizar   [Solución]()  
+
+Mezclar: volúmenes, paneos, Fax         [Solución]()  
+
+Convertir a varios formatos: wav, mp3      [Solución]()  
 
 

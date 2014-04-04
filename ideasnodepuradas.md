@@ -19,7 +19,7 @@ importa el audio Kick.mp3 y ubicalo al inicio del track que creaste.
 si el audio esta alineado con el tempo del proyecto, se debe escuchar sincronizado con el metronomo y visualmente el cursor debe coincidir con las subdividiones en los compases.
 
 
-##Practica #2 Redoblante
+##El Redoblante
 
 crea otro track mono y ponle color naranja y nombralo "Redo"
 Importa el archivo Redo.wav y ubicalo en los tiempos 2 y 4 de cada compas.

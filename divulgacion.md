@@ -11,7 +11,7 @@
 La producción musical nunca fue tan fácil, rápida y efectiva con esta útil herramienta. 
 
 Un metrónomo es vital para el estudio musical, pero es monótono y agotador usarlo por largo tiempo.
-Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, improvisar e interiorizar la parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o también componer una canción con diferentes instrumentos y convertirla en acompañamiento, demo o producción profesional.
+Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, improvisar e interiorizar la parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o usarse también para componer una canción con diferentes instrumentos y convertirla en acompañamiento, demo o producción profesional.
 
 
 ----

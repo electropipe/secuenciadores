@@ -21,16 +21,17 @@ También es una poderosa herramienta para la composición, desde acompañamiento
 
 
 Un secuenciador tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
-Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
+Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, ya sea para estudiar, improvisar o experimentar.
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
 
 [Ejemplo:]()
 
-Luego de tener una base rítmica, lo siguiente es añadir los otros instrumentos necesarios para la pieza. 
+Luego de tener una base rítmica, seguramente quisieramos añadir mas instrumentos para sentir la pieza mas completa.
 
 [Ejemplo:]()  Armonía, melodía, rítmica
 
-Lo siguiente es definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, haciendo que el sonido de la pieza sea más refinado.
+
+tal vez ya se tenga todos los instrumentos necesarios pero es importante definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, para refinar el sonido resultante.
 
 
 [Ejemplo:]()

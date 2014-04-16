@@ -27,11 +27,33 @@ La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el
 [Ejemplo:]()
 
 Luego de tener una base rítmica, seguramente quisieramos añadir mas instrumentos para sentir la pieza mas completa.
+Lo primero es definir instrumentos
 
-[Ejemplo:]()  Armonía, melodía, rítmica
+[Ejemplo:]()  Armonía, melodía, 
 
 
-tal vez ya se tenga todos los instrumentos necesarios pero es importante definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, para refinar el sonido resultante.
+Una vez sepamos que instrumento necesitamos, lo siguiente es conocer su fuente, esto quiere decir, saber cuales instrumentos son reales y cuales son virtuales. 
+Los reales se graban
+Los virtuales se *"secuencian"*
+
+[Ejemplo:]()
+
+
+Ahora hagamos la estructura de la cancion. Una cualidad muy util de los secucenciadores es que nos permiten ver los arreglos en su totalidad sin necesidad de escucharlos y de esta manera tomar decidiones no solo con los oidos, tambien con la vista.
+
+
+
+[Ejemplo:]()
+
+
+tal vez ya se tenga todos los instrumentos necesarios pero es importante definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, para refinar el sonido resultante. este procedimiento se llama: *Mezcla.*
+
+
+[Ejemplo:]()
+
+Profundizemos un poco sobre mezcla, incluyendo un termino llamado:*Paneo*
+Asi como cada elemento tiene un volumen segun su prioridad,  tambien es posible darle una ubicacion en el espacio, situandolo a la derecha o a la izquiera segun criterio y/o sentido artistico. De esto se trata el paneo.
+El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 
 
 [Ejemplo:]()
@@ -39,7 +61,7 @@ tal vez ya se tenga todos los instrumentos necesarios pero es importante definir
 
 
 
-Ya una vez la composición esta completa, se puede llevar a un nivel más profesional, mediante técnicas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
+Ya una vez la composición esta completa, se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
 
 [Ejemplo:]()
 

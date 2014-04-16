@@ -11,12 +11,11 @@
 La producción musical nunca fue tan fácil, rápida y efectiva con esta útil herramienta. 
 
 Un metrónomo es vital para el estudio musical, pero es monótono y agotador usarlo por largo tiempo.
-Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, improvisar e interiorizar la parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o usarse también para componer canciónes con multiples instrumentos y convertirla en acompañamiento, demo o producción profesional.
+Con un secuenciador podemos remplazarlo por la banda entera, para estudiar, improvisar e interiorizar la parte difícil repitiéndola indefinidamente, el tempo se puede modificar para perfeccionarse progresivamente, o usarse también para componer canciones con múltiples instrumentos y convertirla en acompañamiento, demo o producción profesional.
 
 
 ----
 
-##Amigos!  Estoy componiendo!
 
 Un secuenciador tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
 Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, porque da orden y genera nuevas ideas, experimentando e improvisando encima.
@@ -34,7 +33,7 @@ Lo siguiente es definir que tan fuerte o suave sonara cada instrumento según su
 [Ejemplo:]()
 
 
-##Haciendo una obra maestra!
+
 
 Ya una vez la composición esta completa, se puede llevar a un nivel más profesional, mediante técnicas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
 
@@ -43,7 +42,7 @@ Ya una vez la composición esta completa, se puede llevar a un nivel más profes
 
 
 
-##En Concierto: La maquina y yo
+
 
 Componer y grabar no son las únicas funciones de un secuenciador, también es de gran utilidad para acompañarse en vivo, ya sea una canción o todo un concierto, con la versatilidad de poder escoger los instrumentos que sonaran. Otra utilidad de un secuenciador usarlo para estudiar canciones de varias formas.  Una es usando la función de Loop para repetir indefinidamente una porción de la canción. También es posible bajar el tempo para poder interiorizar pasajes difíciles o de mucha rapidez.
 

@@ -20,52 +20,56 @@ También es una poderosa herramienta para la composición, desde acompañamiento
 ----
 
 
-Un secuenciador tiene todo lo necesario para grabar una cancion de principio a fin, con una facilidad extraordinaria a muchos procesos que eran largos y tediosos.
+Un secuenciador tiene todo lo necesario para grabar una canción de principio a fin, con una facilidad extraordinaria a muchos procesos que eran largos y tediosos.
 
-Empecemos con la elaboracion de una cancion que contenga armonia, melodia y ritmo.
+Empecemos con la elaboración de una canción que contenga armonía, melodía y ritmo.
 
-Esta puede contener cantidades de instrumentos. algunos los tendremos a la mano pero otros tal vez no.
+Esta puede contener cantidades de instrumentos. Algunos los tendremos a la mano pero otros tal vez no.
 Ante la ausencia de algunos instrumentos, un secuenciador ofrece la alternativa de los ** Instrumentos virtuales**
-Esto es lo mas parecido a los presets de una organeta, que contiene simulacion de multiples instrumentos, pero con una calidad tan alta como si fuera un instrumento real.
+Esto es lo más parecido a los presets de una organeta, que contiene simulación de múltiples instrumentos, pero con una calidad tan alta como si fuera un instrumento real.
 
-Entonces para nuestra cancion contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
+Entonces para nuestra canción contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
 
-Instrumetos reales se graban
-
-[Ejemplo:]()
-
-Instrumetos virtuales se *"secuencian"*
-
-
-La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
+Instrumentos reales se graban
 
 [Ejemplo:]()
 
-Luego de tener una base rítmica, seguramente quisieramos añadir mas instrumentos para sentir la pieza mas completa.
-Lo primero es definir los instrumentos y su funcion *(Si es armonica o melodica)*
-
-[Ejemplo:]()  Armonía, melodía, 
-
-
+Instrumentos virtuales se *"secuencian"*
 
 
 [Ejemplo:]()
 
+Entonces empecemos con la sección rítmica.
+Una batería es una buena elección, para grabarla de manera real es necesario tener a disposición no solo este instrumento sino también una serie de elementos técnicos como un set de micrófonos específicos, una consola, un cuarto con tratamiento acústico, un buen baterista y el conocimiento de muchas técnicas avanzadas de microfoneria entre otras cosas, todo esto para lograr un sonido decente.  En estos casos la opción mas practica es usar una batería virtual.
 
-Ahora hagamos la estructura de la cancion. Una cualidad muy util de los secucenciadores es que nos permiten ver como un mapa los arreglos en su totalidad sin necesidad de escucharlos y de esta manera tomar decidiones no solo con los oidos, sino tambien con la vista.
+[Ejemplo:]()
+
+
+Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y melódicos para sentir la pieza mas completa.
+
+
+[Ejemplo:]()  Armonía
+
+
+
+[Ejemplo:]()   Melodía
+
+
+Una vez definido lo armónico, melódico y rítmico, hagamos la estructura de la canción. 
+Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglos en su totalidad como un mapa, sin necesidad de escucharlos y de esta manera tomar decisiones, no solo con los oídos, sino también con la vista.
 
 
 
 [Ejemplo:]()
 
 
-tal vez ya se tenga todos los instrumentos necesarios pero es importante definir que tan fuerte o suave sonara cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de cada elemento, para refinar el sonido resultante. este procedimiento se llama: *Mezcla.*
+Tal vez ya se tengan todos los instrumentos necesarios en la canción, pero es importante definir que tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
 
 
 [Ejemplo:]()
 
-Profundizemos un poco sobre mezcla, incluyendo un termino llamado:*Paneo*
-Asi como cada elemento tiene un volumen segun su prioridad,  tambien es posible darle una ubicacion en el espacio, situandolo a la derecha o a la izquiera segun criterio y/o sentido artistico. De esto se trata el paneo.
+Profundicemos un poco sobre la mezcla, incluyendo un término llamado:*Paneo*
+Así como cada elemento tiene un volumen según su prioridad,  también es posible darle una ubicación en el espacio, situándolo a la derecha o a la izquierda según criterio y/o sentido artístico. De esto se trata el paneo.
 El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 
 

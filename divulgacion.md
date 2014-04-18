@@ -27,14 +27,15 @@ La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el
 [Ejemplo:]()
 
 Luego de tener una base rítmica, seguramente quisieramos añadir mas instrumentos para sentir la pieza mas completa.
-Lo primero es definir instrumentos
+Lo primero es definir los instrumentos y su funcion *(Si es armonica o melodica)*
 
 [Ejemplo:]()  Armonía, melodía, 
 
 
-Una vez sepamos que instrumento necesitamos, lo siguiente es conocer su fuente, esto quiere decir, saber cuales instrumentos son reales y cuales son virtuales. 
-Los reales se graban
-Los virtuales se *"secuencian"*
+Una vez sepamos que instrumento necesitamos, lo siguiente es definir cuales instrumentos son reales y cuales son virtuales, porque para ingresarlos al secuenciaodor, los procedimientos son diferentes:
+
+Instrumetos reales se graban
+Instrumetos virtuales se *"secuencian"*
 
 [Ejemplo:]()
 

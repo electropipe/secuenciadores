@@ -25,7 +25,7 @@ Un secuenciador tiene todo lo necesario para grabar una canción de principio a 
 Empecemos con la elaboración de una canción que contenga armonía, melodía y ritmo.
 
 Esta puede contener cantidades de instrumentos. Algunos los tendremos a la mano pero otros tal vez no.
-Ante la ausencia de algunos instrumentos, un secuenciador ofrece la alternativa de los **Instrumentos virtuales**
+Ante la ausencia de algunos instrumentos, un secuenciador ofrece la alternativa de los **Instrumentos virtuales.**
 Esto es lo más parecido a los presets de una organeta, que contiene simulación de múltiples instrumentos, pero con una calidad tan alta como si fuera un instrumento real.
 
 Entonces para nuestra canción contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:

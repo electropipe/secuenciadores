@@ -20,8 +20,23 @@ También es una poderosa herramienta para la composición, desde acompañamiento
 ----
 
 
-Un secuenciador tiene todo lo necesario para facilitarnos muchos procesos que eran largos y tediosos.
-Por ejemplo para un guitarrista, pianista o vientista es muy útil tener una base rítmica, ya sea para estudiar, improvisar o experimentar.
+Un secuenciador tiene todo lo necesario para grabar una cancion de principio a fin, con una facilidad extraordinaria a muchos procesos que eran largos y tediosos.
+
+Empecemos con la elaboracion de una cancion que contenga armonia, melodia y ritmo.
+
+Esta puede contener cantidades de instrumentos. algunos los tendremos a la mano pero otros tal vez no.
+Ante la ausencia de instrumentos, un secuenciador ofrece la alternativa de Instrumentos virtuales 
+
+
+Una vez sepamos que instrumento necesitamos, lo siguiente es definir cuales instrumentos son reales y cuales son virtuales, porque para ingresarlos al secuenciaodor, los procedimientos son diferentes:
+
+Instrumetos reales se graban
+
+[Ejemplo:]()
+
+Instrumetos virtuales se *"secuencian"*
+
+
 La ventaja es que ya no se necesita de un baterista con su instrumento. Desde el secuenciador se puede hacer en pocos pasos y a nuestro gusto.
 
 [Ejemplo:]()
@@ -32,15 +47,12 @@ Lo primero es definir los instrumentos y su funcion *(Si es armonica o melodica)
 [Ejemplo:]()  Armonía, melodía, 
 
 
-Una vez sepamos que instrumento necesitamos, lo siguiente es definir cuales instrumentos son reales y cuales son virtuales, porque para ingresarlos al secuenciaodor, los procedimientos son diferentes:
 
-Instrumetos reales se graban
-Instrumetos virtuales se *"secuencian"*
 
 [Ejemplo:]()
 
 
-Ahora hagamos la estructura de la cancion. Una cualidad muy util de los secucenciadores es que nos permiten ver los arreglos en su totalidad sin necesidad de escucharlos y de esta manera tomar decidiones no solo con los oidos, tambien con la vista.
+Ahora hagamos la estructura de la cancion. Una cualidad muy util de los secucenciadores es que nos permiten ver como un mapa los arreglos en su totalidad sin necesidad de escucharlos y de esta manera tomar decidiones no solo con los oidos, sino tambien con la vista.
 
 
 

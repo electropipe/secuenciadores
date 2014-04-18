@@ -25,10 +25,10 @@ Un secuenciador tiene todo lo necesario para grabar una cancion de principio a f
 Empecemos con la elaboracion de una cancion que contenga armonia, melodia y ritmo.
 
 Esta puede contener cantidades de instrumentos. algunos los tendremos a la mano pero otros tal vez no.
-Ante la ausencia de instrumentos, un secuenciador ofrece la alternativa de Instrumentos virtuales 
+Ante la ausencia de algunos instrumentos, un secuenciador ofrece la alternativa de los ** Instrumentos virtuales**
+Esto es lo mas parecido a los presets de una organeta, que contiene simulacion de multiples instrumentos, pero con una calidad tan alta como si fuera un instrumento real.
 
-
-Una vez sepamos que instrumento necesitamos, lo siguiente es definir cuales instrumentos son reales y cuales son virtuales, porque para ingresarlos al secuenciaodor, los procedimientos son diferentes:
+Entonces para nuestra cancion contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
 
 Instrumetos reales se graban
 

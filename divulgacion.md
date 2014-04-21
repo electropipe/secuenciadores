@@ -40,7 +40,7 @@ Instrumentos reales se graban:
 Instrumentos virtuales se *"secuencian":*
 
 
-[Ejemplo:]()
+[Ejemplo:](secuenciandoinstrumentovirtual.md)
 
 Con esto claro iniciaremos con la sección rítmica.   
 

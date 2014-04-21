@@ -44,7 +44,7 @@ Instrumentos virtuales se *"secuencian"*
 
 Con esto claro iniciaremos con la sección rítmica.   
 
-Una batería es una buena elección, pero grabarla de manera real es un poco complejo, ya que requiere de cierto nivel de experticia, elementos y condiciones tecnicas para lograr un sonido decente.  
+Una batería es una buena elección, pero grabarla de manera real es un poco complejo, ya que requiere de cierto nivel de experticia, elementos y condiciones técnicas para lograr un sonido decente.  
 En estos casos la opción más práctica es recurrir a los instrumentos virtuales, en este caso, una batería virtual.
 
 [Ejemplo:]()
@@ -60,15 +60,15 @@ Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y me
 [Ejemplo:]()   Melodía
 
 
-Una vez definida la armónia, melódia y rítmo, lo siguiente es pensar en la estructura. 
-Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglos en su totalidad como un mapa, permitiendonos tomar decisiones con los oídos y la vista.
+Una vez definida la armonía, melodía y ritmo, lo siguiente es pensar en la estructura. 
+Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglos en su totalidad como un mapa, permitiéndonos tomar decisiones con los oídos y la vista.
 
 
 
 [Ejemplo:]()
 
 
-Hasta aqui tal vez la canción contiene todo lo necesario, Ahora es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
+Hasta aquí tal vez la canción contiene todo lo necesario, Ahora es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
 
 
 [Ejemplo:]()
@@ -81,9 +81,9 @@ El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 [Ejemplo:]()
 
 
-Un ultimo aporte creativo consistira en añadir efectos para darle un toque mas interesante la cancion.
+Un último aporte creativo consistirá en añadir efectos para darle un toque más interesante la canción.
 
-Existen muchos efectos, los cuales se pueden catalogar en las siguites familias:
+Existen muchos efectos, los cuales se pueden catalogar en las siguientes familias:
 
 Fx de Saturación
 Fx de Modulación
@@ -93,42 +93,32 @@ Fx de Repetición
 Fx de Atemperamiento
 Ecualizadores
 
- un par de estos:  Reverb y Delay.
+ Un par de estos:  Reverb y Delay.
 
 
 [Ejemplo:]()
 
 
-la composición está completa!  
-Tenemos una cancion que podemos usar para varias cosas:
+La composición está completa!  Tenemos un demo con un sonido digno de mostrar.
+Una canción como está la podemos usar para varias cosas:
 
-Acompañamiento:
+Acompañamiento: escoger los instrumentos que sonaran.
 
 [Ejemplo:]()
 
 
 Estudio personal:
+Función de Loop 
+Edición del tempo
 
 
 [Ejemplo:]()
 
 
-se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. 
+
+Se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. 
 
 
 
-
-
-
-
-
-Componer y grabar no son las únicas funciones de un secuenciador, también es de gran utilidad para acompañarse en vivo, ya sea una canción o todo un concierto, con la versatilidad de poder escoger los instrumentos que sonaran. Otra utilidad de un secuenciador usarlo para estudiar canciones de varias formas.  Una es usando la función de Loop para repetir indefinidamente una porción de la canción. También es posible bajar el tempo para poder interiorizar pasajes difíciles o de mucha rapidez.
-
-
-
-
-
-
- [Ejemplo:]()
 
 

@@ -25,13 +25,13 @@
        
 Un secuenciador tiene todo lo necesario para grabar una canción de principio a fin, con extraordinaria facilidad en muchos procesos que eran largos y tediosos.
 
-Empecemos con la elaboración de una canción que contenga armonía, melodía y ritmo.
+Empecemos con la elaboración de una canción, que contenga estos tres componentes: armonía, melodía y ritmo.
 
-Esta puede contener cantidades de instrumentos. Algunos los tendremos a la mano pero otros tal vez no.
-Ante la ausencia de algunos instrumentos, un secuenciador ofrece la alternativa de los **Instrumentos virtuales.**
-Esto es lo más parecido a los presets de una organeta, que contiene simulación de múltiples instrumentos, pero con una calidad tan alta como si fuera un instrumento real.
+Esta puede contener muchos instrumentos. Algunos los tendremos disponibles a la mano listos para grabar, otros tal vez no.
+Ante esta ausencia, un secuenciador ofrece la alternativa de los **Instrumentos virtuales.**
+Esto es lo más parecido a los presets de una organeta, que simula múltiples instrumentos, pero con calidad muy cercana a lo real.
 
-Entonces para nuestra canción contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
+Entonces contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
 
 Instrumentos reales se graban
 
@@ -42,8 +42,10 @@ Instrumentos virtuales se *"secuencian"*
 
 [Ejemplo:]()
 
-Entonces empecemos con la sección rítmica.
-Una batería es una buena elección, para grabarla de manera real es necesario tener a disposición no solo este instrumento sino también una serie de elementos técnicos como un set de micrófonos específicos, una consola, un cuarto con tratamiento acústico, un buen baterista y el conocimiento de muchas técnicas avanzadas de microfoneria entre otras cosas, todo esto para lograr un sonido decente.  En estos casos la opción más práctica es usar una batería virtual.
+Con esto claro iniciaremos con la sección rítmica.   
+
+Una batería es una buena elección, pero grabarla de manera real es un poco complejo, ya que requiere de cierto nivel de experticia, elementos y condiciones tecnicas para lograr un sonido decente.  
+En estos casos la opción más práctica es recurrir a los instrumentos virtuales, en este caso, una batería virtual.
 
 [Ejemplo:]()
 

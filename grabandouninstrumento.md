@@ -16,13 +16,14 @@ Por lo general la salida viene configurada por defecto y solo debemos prestar at
 
 <img src="http://i59.tinypic.com/xbl34g.jpg" border="0" width="400" height="250" alt="Image and video hosting by TinyPic"></a>
 
-Hay un pequeño boton generalmente rojo llamado Arm y sirve para preparar el track a la grabacion.
+Hay un pequeño boton generalmente rojo llamado Arm y sirve para preparar el track a la grabacion.  es similar a una carrera cuando dicen: En sus marcas!!  ...Listoos!!  Eso es el boton Arm
 
 
 <img src="http://i57.tinypic.com/25kiyw4.jpg" border="0" width="800" height="300" alt="Image and video hosting by TinyPic"></a>
 
 
-
+Hay otro boton muy parecido, tal vez un poco mas grande llamado Rec!   Al oprimirlo la grabacion inicia inmediatamente.
+tomando el mismo ejemplo de la carrera significa la palabra: Fueraaaaaa!!!!!!
 
 
 

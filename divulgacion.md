@@ -23,7 +23,7 @@
        
        
        
-Un secuenciador tiene todo lo necesario para grabar una canción de principio a fin, con una facilidad extraordinaria a muchos procesos que eran largos y tediosos.
+Un secuenciador tiene todo lo necesario para grabar una canción de principio a fin, con extraordinaria facilidad en muchos procesos que eran largos y tediosos.
 
 Empecemos con la elaboración de una canción que contenga armonía, melodía y ritmo.
 

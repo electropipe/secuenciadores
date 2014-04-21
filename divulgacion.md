@@ -60,15 +60,15 @@ Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y me
 [Ejemplo:]()   Melodía
 
 
-Una vez definido lo armónico, melódico y rítmico, hagamos la estructura de la canción. 
-Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglos en su totalidad como un mapa, sin necesidad de escucharlos y de esta manera tomar decisiones, no solo con los oídos, sino también con la vista.
+Una vez definida la armónia, melódia y rítmo, lo siguiente es pensar en la estructura. 
+Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglos en su totalidad como un mapa, permitiendonos tomar decisiones con los oídos y la vista.
 
 
 
 [Ejemplo:]()
 
 
-Tal vez ya se tengan todos los instrumentos necesarios en la canción, pero es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
+Hasta aqui tal vez la canción contiene todo lo necesario, Ahora es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
 
 
 [Ejemplo:]()
@@ -81,11 +81,41 @@ El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 [Ejemplo:]()
 
 
+Un ultimo aporte creativo consistira en añadir efectos para darle un toque mas interesante la cancion.
 
+Existen muchos efectos, los cuales se pueden catalogar en las siguites familias:
 
-Ya una vez la composición está completa, se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
+Fx de Saturación
+Fx de Modulación
+Filtros
+Fx Dinámicos
+Fx de Repetición
+Fx de Atemperamiento
+Ecualizadores
+
+ un par de estos:  Reverb y Delay.
+
 
 [Ejemplo:]()
+
+
+la composición está completa!  
+Tenemos una cancion que podemos usar para varias cosas:
+
+Acompañamiento:
+
+[Ejemplo:]()
+
+
+Estudio personal:
+
+
+[Ejemplo:]()
+
+
+se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. 
+
+
 
 
 

@@ -33,11 +33,11 @@ Esto es lo más parecido a los presets de una organeta, que simula múltiples in
 
 Entonces contamos con instrumentos reales y virtuales, pero para ingresarlos al secuenciador, los procedimientos son diferentes:
 
-Instrumentos reales se graban
+Instrumentos reales se graban:
 
 [Ejemplo:]()
 
-Instrumentos virtuales se *"secuencian"*
+Instrumentos virtuales se *"secuencian":*
 
 
 [Ejemplo:]()

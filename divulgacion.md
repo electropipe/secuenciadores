@@ -35,7 +35,7 @@ Entonces contamos con instrumentos reales y virtuales, pero para ingresarlos al 
 
 Instrumentos reales se graban:
 
-[Ejemplo:]()
+[Grabando un Instrumento:](grabandouninstrumento.md)
 
 Instrumentos virtuales se *"secuencian":*
 

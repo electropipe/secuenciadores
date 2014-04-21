@@ -1,19 +1,16 @@
 #SECUENCIADORES: Acompañante Autómata
 
 
-##### *Un secuenciador permite componer sonidos de forma ordenada y reproducirlos automáticamente, usarse como acompañamiento musical, o incluso realizar producciones profesionales.  ...¿herramienta o instrumento?*
+#### *Un secuenciador permite componer sonidos de forma ordenada y reproducirlos automáticamente, usarse como acompañamiento musical, o incluso realizar producciones profesionales.  ...¿herramienta o instrumento?*
 
 
 
 ----
 
 
+*Con un secuenciador podemos remplazar el monótono metrónomo por una banda entera, ya sea para estudiar, improvisar o interiorizar una parte difícil, con posibilidad de crear loops y modificar el tempo a gusto entre muchas otras útiles funciones*
 
-
-Un metrónomo es vital para el estudio musical, pero es monótono y agotador al usarlo por largo tiempo.
-Con un secuenciador podemos remplazar el Metrónomo por una banda entera, ya sea para estudiar, improvisar o interiorizar una parte difícil repitiéndola indefinidamente y modificar el tempo a gusto.
-
-También es una poderosa herramienta para la composición, desde acompañamiento o demo hasta producción profesional.
+*Sus usos para la composición, acompañamiento musical y producción profesional hacen del secuenciador una herramienta vital para el músico hoy en dia.*
 
 
 
@@ -40,12 +37,12 @@ Instrumentos virtuales se *"secuencian"*
 [Ejemplo:]()
 
 Entonces empecemos con la sección rítmica.
-Una batería es una buena elección, para grabarla de manera real es necesario tener a disposición no solo este instrumento sino también una serie de elementos técnicos como un set de micrófonos específicos, una consola, un cuarto con tratamiento acústico, un buen baterista y el conocimiento de muchas técnicas avanzadas de microfoneria entre otras cosas, todo esto para lograr un sonido decente.  En estos casos la opción mas practica es usar una batería virtual.
+Una batería es una buena elección, para grabarla de manera real es necesario tener a disposición no solo este instrumento sino también una serie de elementos técnicos como un set de micrófonos específicos, una consola, un cuarto con tratamiento acústico, un buen baterista y el conocimiento de muchas técnicas avanzadas de microfoneria entre otras cosas, todo esto para lograr un sonido decente.  En estos casos la opción más práctica es usar una batería virtual.
 
 [Ejemplo:]()
 
 
-Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y melódicos para sentir la pieza mas completa.
+Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y melódicos para sentir la pieza más completa.
 
 
 [Ejemplo:]()  Armonía
@@ -63,7 +60,7 @@ Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglo
 [Ejemplo:]()
 
 
-Tal vez ya se tengan todos los instrumentos necesarios en la canción, pero es importante definir que tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
+Tal vez ya se tengan todos los instrumentos necesarios en la canción, pero es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
 
 
 [Ejemplo:]()
@@ -78,7 +75,7 @@ El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 
 
 
-Ya una vez la composición esta completa, se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
+Ya una vez la composición está completa, se puede llevar a un nivel más profesional, mediante técnicas avanzadas de Mezcla y masterización. Algunas de estas técnicas son, compresión, ecualización, paneo y efectos entre otros.
 
 [Ejemplo:]()
 

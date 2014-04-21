@@ -8,7 +8,7 @@
 ----
 
 
-*Con un secuenciador podemos remplazar el monótono metrónomo por una banda entera, ya sea para estudiar, improvisar o interiorizar una parte difícil, con posibilidad de crear loops y modificar el tempo a gusto entre muchas otras útiles funciones*
+*Con un secuenciador podemos remplazar el monótono metrónomo por una banda entera, ya sea para estudiar, improvisar o interiorizar una parte difícil, con posibilidad de crear loops y modificar el tempo a gusto entre muchas otras útiles funciones.*
 
 *Sus usos para la composición, acompañamiento musical y producción profesional hacen del secuenciador una herramienta vital para el músico hoy en dia.*
 
@@ -16,7 +16,12 @@
 
 ----
 
-
+     
+     
+     
+       
+       
+       
 Un secuenciador tiene todo lo necesario para grabar una canción de principio a fin, con una facilidad extraordinaria a muchos procesos que eran largos y tediosos.
 
 Empecemos con la elaboración de una canción que contenga armonía, melodía y ritmo.

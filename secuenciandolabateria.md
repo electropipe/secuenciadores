@@ -1,10 +1,8 @@
-
-
-Secuenciaremos una bateria virtual desde una seccion llamada PianoRoll, Esto es el lugar donde dibujamos las notas con sus duraciones, alturas, y volumenes.  
+Secuenciaremos una batería virtual desde una sección llamada PianoRoll, Esto es el lugar donde dibujamos las notas con sus duraciones, alturas, y volúmenes.  
 Todos los secuenciadores contienen PianoRoll.
 
-Observa que cada renglon obedece a diferentes sonidos, entonces es muy util familiarizarse un poco antes de empezar a escribir.
- 
+Observa que cada renglón obedece a diferentes sonidos, entonces es muy útil familiarizarse un poco antes de empezar a escribir.
+
 
 
 

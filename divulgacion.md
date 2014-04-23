@@ -65,20 +65,20 @@ Una cualidad muy útil de los secuenciadores es que nos permiten ver los arreglo
 
 
 
-[Ejemplo:]()
+[Ejemplo:](estructura.md)
 
 
 Hasta aquí tal vez la canción contiene todo lo necesario, Ahora es importante definir qué tan fuerte o suave queremos que suene cada instrumento según su prioridad. Los secuenciadores permiten ajustar el volumen de los elementos, refinando el sonido resultante. Este procedimiento se llama: *Mezcla.*
 
 
-[Ejemplo:]()
+[Ejemplo:](volumenes.md)
 
 Profundicemos un poco sobre la mezcla, incluyendo un término llamado:*Paneo*
 Así como cada elemento tiene un volumen según su prioridad,  también es posible darle una ubicación en el espacio, situándolo a la derecha o a la izquierda según criterio y/o sentido artístico. De esto se trata el paneo.
 El resultado busca crear un ambiente con relieve sonoro y espacialidad.
 
 
-[Ejemplo:]()
+[Ejemplo:](paneo.md)
 
 
 Un último aporte creativo consistirá en añadir efectos para darle un toque más interesante la canción.
@@ -96,7 +96,7 @@ Ecualizadores
  Un par de estos:  Reverb y Delay.
 
 
-[Ejemplo:]()
+[Ejemplo:](efectos.md)
 
 
 La composición está completa!  Tenemos un demo con un sonido digno de mostrar.

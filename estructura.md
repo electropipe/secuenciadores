@@ -6,7 +6,8 @@ La estructura de una canción se puede hacer de muchas maneras. Se puede pensar 
 
 Las posibilidades son muchas, la idea es encontrar una estructura fluida y agradable. 
 
-Lugo podemos proceder a editarlas en el secuenciador.
+Lugo podemos proceder a editarlas en el secuenciador.  
+Algunos ejemplos de estructuraas se verian asi:
 
 
 <img src="http://i57.tinypic.com/347yank.jpg" border="0" alt="Image and video hosting by TinyPic"></a>

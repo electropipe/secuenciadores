@@ -53,11 +53,11 @@ En estos casos la opción más práctica es recurrir a los instrumentos virtuale
 Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y melódicos para sentir la pieza más completa.
 
 
-[Ejemplo:]()  Armonía
+[Ejemplo:](armonia.md)  
 
 
 
-[Ejemplo:]()   Melodía
+[Ejemplo:](melodia.md)   
 
 
 Una vez definida la armonía, melodía y ritmo, lo siguiente es pensar en la estructura. 

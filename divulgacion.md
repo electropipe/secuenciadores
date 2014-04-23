@@ -47,7 +47,7 @@ Con esto claro iniciaremos con la sección rítmica.
 Una batería es una buena elección, pero grabarla de manera real es un poco complejo, ya que requiere de cierto nivel de experticia, elementos y condiciones técnicas para lograr un sonido decente.  
 En estos casos la opción más práctica es recurrir a los instrumentos virtuales, en este caso, una batería virtual.
 
-[Ejemplo:]()
+[Ejemplo:](secuenciandolabateria.md)
 
 
 Luego de tener una base rítmica, añadiremos otros instrumentos armónicos y melódicos para sentir la pieza más completa.

@@ -6,3 +6,4 @@ Grabacion
 Midi   
 Efectos   
 Mezcla   
+Loops
